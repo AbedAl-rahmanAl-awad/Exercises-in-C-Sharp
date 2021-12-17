@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Exercise, Configuration: Debug Any CPU ------
+1>  Exercise -> C:\Users\abood\source\repos\Exercise\bin\Debug\Exercise.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
